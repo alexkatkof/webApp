@@ -1,0 +1,7 @@
+com\catcov\spring\daoimpl\UserDaoImpl.class
+com\catcov\spring\dao\UserDao.class
+com\catcov\spring\dao\RepositoryDao.class
+com\catcov\spring\controllers\HomeController.class
+com\catcov\spring\controllers\TestController.class
+com\catcov\spring\daoimpl\TestDao.class
+com\catcov\spring\models\User.class
